@@ -30,7 +30,7 @@ In order to start AARAE, please make the AARAE folder your 'Current folder' in t
 - Toolboxes and General Utilities  
 - Utilities  
 - Workflows  
-.  
+
 These folders do not need to be added to the MATLAB path in order for the GUI interface to launch. We advise you not to add them to the MATLAB path to reduce the risk of function name conflicts. Instead, simply make the AARAE folder MATLAB’s current directory.  
 
 You should also find the `aarae.m` and `aarae.fig` files the AARAE directory, along with the Licence for AARAE and this README file.  
