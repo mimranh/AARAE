@@ -11,7 +11,9 @@ Other toolboxes are also used by some parts of AARAE, including:
 - Curve Fitting Toolbox  
 
 ## MATLAB Version (Required)
-Type >> ver into MATLAB's command line to find out what toolboxes you have installed  
+Type  
+>> ver  
+into MATLAB's command line to find out what toolboxes you have installed  
 
 ## How to Start
 In order to start AARAE, please make the AARAE folder your 'Current folder' in the MATLAB paths. You should find all the AARAE subfolders:  
@@ -31,12 +33,11 @@ In order to start AARAE, please make the AARAE folder your 'Current folder' in t
 .  
 These folders do not need to be added to the MATLAB path in order for the GUI interface to launch. We advise you not to add them to the MATLAB path to reduce the risk of function name conflicts. Instead, simply make the AARAE folder MATLAB’s current directory.  
 
-You should also find the >> aarae.m and >> aarae.fig files the AARAE directory, along with the Licence for AARAE and this README file.  
+You should also find the aarae.m and aarae.fig files the AARAE directory, along with the Licence for AARAE and this README file.  
 When you run AARAE, the file Settings <.mat> will be created.  
 Once you've made the AARAE folder your current folder in the MATLAB path, in order to launch AARAE, please type in MATLAB's Command Window:  
  
->> aarae  
- 
+aarae.m  
 
 This command will launch the user interface for AARAE.  
 
